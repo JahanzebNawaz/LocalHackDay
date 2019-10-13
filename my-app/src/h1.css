@@ -1,0 +1,22 @@
+
+.test{
+    font-size: 32px;
+    color: palegoldenrod;
+}
+
+
+/* SASS */
+/* .test {
+    .test-hover{
+
+    }
+} */
+
+
+/* JSS */
+/* const styles = {
+    container: {
+        fontSize: 32,
+        color: 'red';
+    }
+} */
